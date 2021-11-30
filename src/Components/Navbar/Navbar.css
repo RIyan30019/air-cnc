@@ -1,0 +1,15 @@
+.primary-color {
+    color: #2bde8c !important;
+}
+.primary-second-color {
+    color: #75ee50;
+}
+
+.bg {
+    background: linear-gradient(90deg, rgba(43,222,140,1) 0%, rgba(117,238,80,0.9472163865546218) 81%) !important;
+    color: white; 
+}
+.bg:hover{
+    border: 2px solid rgb(206, 241, 225);
+    color: white;
+}
