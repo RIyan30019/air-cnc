@@ -18,5 +18,3 @@ Aircnc [Live-Website](https://aircnc-5.web.app/)
  * Express.js
  * MongoDB
 
- [Back-End-Repo](https://github.com/Ashraful-Mijan/air-cnc-server)
-
